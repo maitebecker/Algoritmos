@@ -12,4 +12,4 @@ O repsítório está dividido em roteiros
 * Roteiro 8 - **[Funções](https://github.com/maitebecker/Algoritmos/tree/main/Roteiro8%20-%20Fun%C3%A7%C3%B5es)**
 
 ---
-:pushpin: Autor: [Maitê](https://gist.github.com/maitebecker) 😊
+:pushpin: Autor: [Maitê](https://github.com/maitebecker) 😊
